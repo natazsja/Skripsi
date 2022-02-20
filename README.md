@@ -1,0 +1,2 @@
+# Skripsi
+Repository for skripsi
